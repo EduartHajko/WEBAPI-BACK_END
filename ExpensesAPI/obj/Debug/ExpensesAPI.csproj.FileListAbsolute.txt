@@ -1,0 +1,1347 @@
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\ApplicationInsights.config
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll.config
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe.config
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.rsp
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe.config
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.rsp
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Console.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe.config
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.rsp
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\EntityFramework.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\WebGrease.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\EntityFramework.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csprojAssemblyReference.cache
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CopyComplete
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.dll
+C:\Users\Ervis Trupja\source\repos\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\ApplicationInsights.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Console.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\WebGrease.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csprojAssemblyReference.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CopyComplete
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.Migrations.Initial.resources
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_04\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.GenerateResource.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\ApplicationInsights.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Console.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\WebGrease.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csprojAssemblyReference.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.Migrations.Initial.resources
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.GenerateResource.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CopyComplete
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch02\02_05\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\ApplicationInsights.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Console.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\WebGrease.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csprojAssemblyReference.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.Migrations.Initial.resources
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.GenerateResource.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CopyComplete
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch03\03_04\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\ApplicationInsights.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Console.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\WebGrease.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csprojAssemblyReference.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.Migrations.Initial.resources
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.GenerateResource.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CopyComplete
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch04\04_06\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\ApplicationInsights.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Console.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\WebGrease.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csprojAssemblyReference.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.Migrations.Initial.resources
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.GenerateResource.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CopyComplete
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch05\05_02\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\ApplicationInsights.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Console.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\WebGrease.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csprojAssemblyReference.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.Migrations.Initial.resources
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.GenerateResource.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CopyComplete
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_02\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\ApplicationInsights.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Console.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\WebGrease.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csprojAssemblyReference.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.Migrations.Initial.resources
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.GenerateResource.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CopyComplete
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch06\06_03\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csprojAssemblyReference.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.Migrations.Initial.resources
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.GenerateResource.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\ApplicationInsights.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Console.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\WebGrease.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CopyComplete
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_01\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.Migrations.UserAdded.resources
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\ApplicationInsights.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Console.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\WebGrease.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csprojAssemblyReference.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.Migrations.Initial.resources
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.Migrations.UserAdded.resources
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.GenerateResource.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CopyComplete
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_06\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\ApplicationInsights.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Console.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.rsp
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\WebGrease.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csprojAssemblyReference.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.Migrations.Initial.resources
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.Migrations.UserAdded.resources
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.GenerateResource.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CopyComplete
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.dll
+C:\Users\Ervis Trupja\Desktop\Exercise Files\Ch07\07_11\End\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.pdb
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\ApplicationInsights.config
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll.config
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\ExpensesAPI.pdb
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._csc.exe
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._csc.exe.config
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._csc.rsp
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._csi.exe
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._csi.exe.config
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._csi.rsp
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._Microsoft.CodeAnalysis.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._Microsoft.CSharp.Core.targets
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._Microsoft.Managed.Core.targets
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._Microsoft.VisualBasic.Core.targets
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.AppContext.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Collections.Immutable.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Console.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Diagnostics.FileVersionInfo.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Diagnostics.StackTrace.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.IO.Compression.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.IO.FileSystem.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.IO.FileSystem.Primitives.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.IO.Pipes.AccessControl.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.IO.Pipes.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Reflection.Metadata.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Security.AccessControl.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Security.Claims.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Security.Cryptography.Algorithms.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Security.Cryptography.Encoding.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Security.Cryptography.Primitives.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Security.Cryptography.X509Certificates.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Security.Principal.Windows.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Text.Encoding.CodePages.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.ValueTuple.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Xml.ReaderWriter.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Xml.XmlDocument.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Xml.XPath.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._System.Xml.XPath.XDocument.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._vbc.exe
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._vbc.exe.config
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._vbc.rsp
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._VBCSCompiler.exe
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\._VBCSCompiler.exe.config
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.exe.config
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\csc.rsp
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.exe.config
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\csi.rsp
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.AppContext.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Console.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.exe.config
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\vbc.rsp
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\EntityFramework.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.Cors.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\WebGrease.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\EntityFramework.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.Cors.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Newtonsoft.Json.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.Helpers.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.Mvc.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.Optimization.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.Razor.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Antlr3.Runtime.pdb
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.AI.Web.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csprojAssemblyReference.cache
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.Migrations.Initial.resources
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.Migrations.UserAdded.resources
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.GenerateResource.cache
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CoreCompileInputs.cache
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.csproj.CopyComplete
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.dll
+C:\Users\ehajko.OPTIMAALBANIA\Desktop\ExpensesAPI\ExpensesAPI\obj\Debug\ExpensesAPI.pdb
